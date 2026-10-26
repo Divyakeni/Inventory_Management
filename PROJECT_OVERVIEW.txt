@@ -1,0 +1,3 @@
+Inventory Management Dashboard | SQL + Power BI
+Includes supplied PBIX, PDF reference, original SQL ZIP, and four dashboard screenshots.
+See README.md for project overview, displayed metrics, folder structure, and usage instructions.
